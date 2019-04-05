@@ -2,67 +2,11 @@
 //
 
 #include <iostream>
+#include "Field.h"
 
 int main()
 {
-    std::cout << "Hello World I am bored!\n"; 
-	std::cout << "i expanded the program a little bit";
+	Field* f = new Field();
 }
 
-void useLessCodeToLookHowTheStatisticsWork() {
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-	std::cout << "HI GIT";
-}
+// TODO do sum procedural programming of the class
